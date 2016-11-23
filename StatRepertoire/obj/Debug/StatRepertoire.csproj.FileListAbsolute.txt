@@ -1,0 +1,12 @@
+c:\users\jsimon\documents\visual studio 2013\Projects\StatRepertoire\StatRepertoire\bin\Debug\StatRepertoire.exe
+c:\users\jsimon\documents\visual studio 2013\Projects\StatRepertoire\StatRepertoire\bin\Debug\StatRepertoire.pdb
+c:\users\jsimon\documents\visual studio 2013\Projects\StatRepertoire\StatRepertoire\obj\Debug\StatRepertoire.csprojResolveAssemblyReference.cache
+c:\users\jsimon\documents\visual studio 2013\Projects\StatRepertoire\StatRepertoire\obj\Debug\StatRepertoire.exe
+c:\users\jsimon\documents\visual studio 2013\Projects\StatRepertoire\StatRepertoire\obj\Debug\StatRepertoire.pdb
+c:\users\jsimon\documents\visual studio 2013\Projects\StatRepertoire\StatRepertoire\bin\Debug\StatRepertoire.exe.config
+C:\Users\jsimon\Documents\Visual Studio 2013\Projects\CheckSumAllFile\StatRepertoire\bin\Debug\StatRepertoire.exe.config
+C:\Users\jsimon\Documents\Visual Studio 2013\Projects\CheckSumAllFile\StatRepertoire\obj\Debug\StatRepertoire.exe
+C:\Users\jsimon\Documents\Visual Studio 2013\Projects\CheckSumAllFile\StatRepertoire\obj\Debug\StatRepertoire.pdb
+C:\Users\jsimon\Documents\Visual Studio 2013\Projects\CheckSumAllFile\StatRepertoire\bin\Debug\StatRepertoire.exe
+C:\Users\jsimon\Documents\Visual Studio 2013\Projects\CheckSumAllFile\StatRepertoire\bin\Debug\StatRepertoire.pdb
+C:\Users\jsimon\Documents\Visual Studio 2013\Projects\CheckSumAllFile\StatRepertoire\obj\Debug\StatRepertoire.csprojResolveAssemblyReference.cache
